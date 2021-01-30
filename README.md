@@ -1,2 +1,2 @@
 # alwede.github.io
-Unfinished website in 2015
+Unfinished Landing Page project from 2015 with vector graphic made bu me.
